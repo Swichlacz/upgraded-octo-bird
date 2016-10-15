@@ -1,4 +1,8 @@
-    A LIttle Bird I Am
+    #A Little Bird I Am
+                
+           :bird:
+                
+    By *Louisa May Alcott*
  
     "A little bird I am,
     Shut from the fields of air,
@@ -15,6 +19,5 @@
     He caught and bound my wandering wing,
     But still He bends to hear me sing."
     
-    -Louisa May Alcott
     
-    http://www.public-domain-poetry.com/louisa-may-alcott/little-bird-i-am-12622
+    [Public Domain Poetry](http://www.public-domain-poetry.com/louisa-may-alcott/little-bird-i-am-12622)
