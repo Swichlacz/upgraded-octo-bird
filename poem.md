@@ -1,6 +1,6 @@
 #A Little Bird I Am
 
-      :bird:
+:bird:
 
 By *Louisa May Alcott*
 
